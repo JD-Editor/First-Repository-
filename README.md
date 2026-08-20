@@ -1,3 +1,4 @@
 # First-Repository-
 This is my repository.
-author jeet 
+author:jeet<br>
+my name is Jeet Bhatt
